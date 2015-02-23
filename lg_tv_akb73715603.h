@@ -1,0 +1,52 @@
+/*************************************************
+ * Public Constants
+ *************************************************/
+
+#define POWER  20DF10EF
+#define TV_RAD 20DF0FF0
+#define SUBTITLE 20DF9C63
+#define AV_MODE 20DF0CF3
+#define RATIO 20DF9E61
+#define INPUT 20DFD02F
+#define KEY_1 20DF8877
+#define KEY_2 20DF48B7
+#define KEY_3 20DFC837
+#define KEY_4 20DF28D7
+#define KEY_5 20DFA857
+#define KEY_6 20DF6897
+#define KEY_7 20DFE817
+#define KEY_8 20DF18E7
+#define KEY_9 20DF9867
+#define KEY_0 20DF08F7
+#define LIST 20DFCA35
+#define Q_VIEW 20DF58A7
+#define V_UP 20DF40BF
+#define V_DOWN 20DFC03F
+#define P_UP 20DF00FF
+#define P_DOWN 20DF807F
+#define FAV 20DF7887
+#define GUIDE 20DFD52A
+#define MUTE 20DF906F
+#define TEXT 20DF04FB
+#define INFO 20DF55AA
+#define T_OPT 20DF847B
+#define SETTINGS 20DFC23D
+#define Q_MENU 20DFA25D
+#define UP 20DF02FD
+#define DOWN 20DF827D
+#define LEFT 20DFE01F
+#define RIGHT 20DF609F
+#define OK 20DF22DD
+#define BACK 20DF14EB
+#define EXIT 20DFDA25
+#define SIMPLINK 20DF7E81
+#define AD 20DF8976
+#define STOP 20DF8D72
+#define BACKWARD 20DFF10E
+#define PLAY 20DF0DF2
+#define PAUSE 20DF5DA2
+#define FORWARD 20DF718E
+#define RED 20DF4EB1
+#define GREEN 20DF8E71
+#define YELLOW 20DFC639
+#define BLUE 20DF8679
